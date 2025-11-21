@@ -1,0 +1,15 @@
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProejtoAbstracaoCelular/bin/Debug/net8.0/ProejtoAbstracaoCelular
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProejtoAbstracaoCelular/bin/Debug/net8.0/ProejtoAbstracaoCelular.deps.json
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProejtoAbstracaoCelular/bin/Debug/net8.0/ProejtoAbstracaoCelular.runtimeconfig.json
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProejtoAbstracaoCelular/bin/Debug/net8.0/ProejtoAbstracaoCelular.dll
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProejtoAbstracaoCelular/bin/Debug/net8.0/ProejtoAbstracaoCelular.pdb
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProejtoAbstracaoCelular/obj/Debug/net8.0/ProejtoAbstracaoCelular.GeneratedMSBuildEditorConfig.editorconfig
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProejtoAbstracaoCelular/obj/Debug/net8.0/ProejtoAbstracaoCelular.AssemblyInfoInputs.cache
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProejtoAbstracaoCelular/obj/Debug/net8.0/ProejtoAbstracaoCelular.AssemblyInfo.cs
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProejtoAbstracaoCelular/obj/Debug/net8.0/ProejtoAbstracaoCelular.csproj.CoreCompileInputs.cache
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProejtoAbstracaoCelular/obj/Debug/net8.0/ProejtoAbstracaoCelular.sourcelink.json
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProejtoAbstracaoCelular/obj/Debug/net8.0/ProejtoAbstracaoCelular.dll
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProejtoAbstracaoCelular/obj/Debug/net8.0/refint/ProejtoAbstracaoCelular.dll
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProejtoAbstracaoCelular/obj/Debug/net8.0/ProejtoAbstracaoCelular.pdb
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProejtoAbstracaoCelular/obj/Debug/net8.0/ProejtoAbstracaoCelular.genruntimeconfig.cache
+/home/calebeximenes/Área de trabalho/Dev/BootCamp .NET com IA/ProejtoAbstracaoCelular/obj/Debug/net8.0/ref/ProejtoAbstracaoCelular.dll
